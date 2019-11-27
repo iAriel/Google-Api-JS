@@ -1,0 +1,14 @@
+.inputs {
+    width: 25%;
+    margin: auto;
+    margin-top: 3%;
+    text-align: center;
+    background-color: rgb(236, 236, 236);
+    border: 10px solid rgb(236, 236, 236);
+    border-radius: 5px;
+}
+
+.inputs button {
+    margin: auto;
+
+}
